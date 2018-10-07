@@ -1,0 +1,4 @@
+mywifi.h
+mymqttbroker.h
+.vscode/*
+*.log
